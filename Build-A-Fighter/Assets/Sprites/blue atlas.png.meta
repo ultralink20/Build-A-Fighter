@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 6c86bf41bc6883d488e310c6dc7cc4f3
+timeCreated: 1463584035
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idle 1
+    21300002: Idle 2
+    21300004: Walk 1
+    21300006: Walk 2
+    21300008: Walk 3
+    21300010: Crouch
+    21300012: Jump
+    21300014: On Air
+    21300016: Falling
+    21300018: Blocking
+    21300020: Blocking Crouch
+    21300022: Punch A 1
+    21300024: Punch A 2
+    21300026: Punch B
+    21300028: Kick 1
+    21300030: Kick 2
+    21300032: Down
+    21300034: Crouch Attack 1
+    21300036: Crouch Attack 2
+    21300038: Jump Attack 1
+    21300040: Jump Attack 2
+    21300042: Grapple 1
+    21300044: Grapple 2
+    21300046: Grapple 3
+    21300048: Hit
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Idle 1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 69
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle 2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 69
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walk 1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 69
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walk 2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 69
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walk 3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 69
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Crouch
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 69
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jump
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 64
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: On Air
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 64
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Falling
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 69
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Blocking
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 68
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Blocking Crouch
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 69
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Punch A 1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 68
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Punch A 2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 68
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Punch B
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 69
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 19}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: 4}
+        - {x: -13.5, y: -18}
+        - {x: -11.5, y: -19}
+        - {x: 16.5, y: -19}
+        - {x: 16.5, y: 16}
+        - {x: 10.5, y: 19}
+    - name: Kick 1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 69
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Kick 2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 11
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 19.5}
+        - {x: -18.5, y: 12.5}
+        - {x: 3.5, y: -19.5}
+        - {x: 15.5, y: -19.5}
+        - {x: 18.5, y: -8.5}
+        - {x: 18.5, y: 17.5}
+        - {x: 17.5, y: 19.5}
+    - name: Down
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 13.5}
+        - {x: -10.5, y: 13.5}
+        - {x: -21.5, y: 9.5}
+        - {x: -21.5, y: -9.5}
+        - {x: 18.5, y: -9.5}
+        - {x: 21.5, y: -6.5}
+        - {x: 21.5, y: 5.5}
+        - {x: 15.5, y: 10.5}
+    - name: Crouch Attack 1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 10
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Crouch Attack 2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 10
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16.5}
+        - {x: -16, y: 8.5}
+        - {x: -16, y: -6.5}
+        - {x: -2, y: -16.5}
+        - {x: 16, y: -16.5}
+        - {x: 16, y: 15.5}
+        - {x: 14, y: 16.5}
+    - name: Jump Attack 1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jump Attack 2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 15
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Grapple 1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 8
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Grapple 2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 6
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Grapple 3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 8
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 16.5}
+        - {x: -19, y: 13.5}
+        - {x: -19, y: -16.5}
+        - {x: 10, y: -16.5}
+        - {x: 19, y: -2.5}
+        - {x: 19, y: 16.5}
+    - name: Hit
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 6
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
