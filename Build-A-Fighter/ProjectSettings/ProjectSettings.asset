@@ -464,7 +464,7 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
-    Collab: 1
+    Collab: 0
     UNet: 1
   cloudProjectId: f6850600-c848-4bf0-87c3-2422b066b1b2
   projectName: 2D Fighter Redux
