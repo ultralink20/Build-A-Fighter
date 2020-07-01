@@ -626,7 +626,7 @@ MonoBehaviour:
   attack2: 0
   attack3: 0
   crouch: 0
-  canAttack: 0
+  canAttack: 1
   gettingHit: 0
   currentlyAttacking: 0
   dontMove: 0
