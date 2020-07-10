@@ -1,9 +1,19 @@
 fileFormatVersion: 2
-guid: b97d4ded5d400f347a58de671ab7168d
-timeCreated: 1594398852
+guid: fdd0bed54bb2078428fe67912254af59
+timeCreated: 1594405164
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Locomotion_0
+    21300002: Locomotion_1
+    21300004: Locomotion_2
+    21300006: Locomotion_3
+    21300008: Locomotion_4
+    21300010: Locomotion_5
+    21300012: Locomotion_6
+    21300014: Locomotion_7
+    21300016: Locomotion_8
+    21300018: Locomotion_9
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,13 +44,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -58,9 +68,155 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Locomotion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1014.6666
+        width: 445
+        height: 507.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Locomotion_1
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1014.6666
+        width: 445
+        height: 507.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Locomotion_2
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1014.6666
+        width: 445
+        height: 507.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Locomotion_3
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1014.6666
+        width: 445
+        height: 507.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Locomotion_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507.66666
+        width: 445
+        height: 507.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Locomotion_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 507.66666
+        width: 445
+        height: 507.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Locomotion_6
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 507.66666
+        width: 445
+        height: 507.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Locomotion_7
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 507.66666
+        width: 445
+        height: 507.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Locomotion_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.6666565
+        width: 445
+        height: 507.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Locomotion_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 0.6666565
+        width: 445
+        height: 507.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
