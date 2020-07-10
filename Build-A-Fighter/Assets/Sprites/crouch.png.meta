@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 7848f7b4e32b05643963cf1caf3aa775
+timeCreated: 1594398987
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crouch_0
+    21300002: crouch_1
+    21300004: crouch_2
+    21300006: crouch_3
+    21300008: crouch_4
+    21300010: crouch_5
+    21300012: crouch_6
+    21300014: crouch_7
+    21300016: crouch_8
+    21300018: crouch_9
+    21300020: crouch_10
+    21300022: crouch_11
+    21300024: crouch_12
+    21300026: crouch_13
+    21300028: crouch_14
+    21300030: crouch_15
+    21300032: crouch_16
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crouch_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1181.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1181.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch_2
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1181.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch_3
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1181.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch_4
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1181.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 788.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 788.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch_7
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 788.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch_8
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 788.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch_9
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 788.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 395.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch_12
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 395.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch_13
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 395.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch_14
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 395.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch_16
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2.25
+        width: 354.8
+        height: 393.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
